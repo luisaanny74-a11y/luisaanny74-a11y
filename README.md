@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, my name is Anny👋
+💻 Estudante de Ciência da Computação
 <!--
 **luisaanny74-a11y/luisaanny74-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
