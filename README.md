@@ -10,7 +10,7 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
 
 
 
-### 🛠️ No que estou trabalhando agora
+### 🛠️ No que estou Desenvolvendo
 - 🔭 **Rubi:** Meu projeto principal. Um assistente de IA offline (Python + Llama) com interface 3D em Three.js.
 - ♟️ **Xadrez em Java:** Praticando lógica de programação orientada a objetos.
 - 🌱 **Aprendizado:** No momento, focada em entender melhor o "porquê" das coisas em Redes e modelagem de dados.
