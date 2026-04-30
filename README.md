@@ -21,7 +21,7 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
 - **Calculadora Funcional:** Um dos meus primeiros projetos para consolidar lógica de programação e meu aprendizado.
 - **Rubi (Em desenvolvimento):** Meu projeto mais ambicioso, integrando IA (Llama) e interface 3D.
   
-### 🧪 Toolbox (Aprendendo e Evoluindo)
+### 🧪 Aprendendo e Evoluindo
 <div align="left">
   <img src="https://img.shields.io/badge/Java-E0115F?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,11 +33,10 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
 
 ---
 
-### 📈 Contribuições (My Coding Journey)
+### 📈 Minhas Estatísticas
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api/snake?github=luisaanny74-a11y&color_dots=%23161b22%2C%23641e16%2C%23943126%2C%23cb4335%2C%23e0115f&color_snake=%23c0c0c0" alt="Snake animation" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaanny74-a11y&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&title_color=e0115f&icon_color=c0c0c0&text_color=ffffff" />
 </p>
-
 ---
 
 ### 📫 Conecte-se comigo
