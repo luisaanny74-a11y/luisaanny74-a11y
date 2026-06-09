@@ -37,11 +37,6 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
-### 📈 Minhas Estatísticas
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaanny74-a11y&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=5&title_color=e0115f&icon_color=c0c0c0&text_color=ffffff" />
-</p>
-
 
 ### 📫 Conecte-se comigo
 - 💬 Vamos conversar sobre: Banco de Dados, desenvolvimento mobile ou IA.
