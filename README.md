@@ -1,21 +1,17 @@
-# ## Hi there, my name is Anny! 👋
+# ## Hi there, my name is Anny! 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=000000&height=150&section=header&text=Anny%20Luísa&fontSize=70&animation=fadeIn&fontColor=e0115f" />
-</p>
-
-### 💻 Estudante de Ciência da Computação (3º Período)
+### Estudante de Ciência da Computação (3º Período)
 
 Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenvolvimento de soluções criativas. Acredito que o aprendizado é contínuo e, atualmente, estou mergulhando fundo em arquitetura de banco de dados e no desenvolvimento de assistentes inteligentes.
 
 
 
-### 🛠️ No que estou Desenvolvendo
-- 🔭 **Rubi:** Meu projeto principal. Um assistente de IA offline (Python + Llama) com interface 3D em Three.js.
-- ♟️ **Xadrez em Java:** Praticando lógica de programação orientada a objetos.
-- 🌱 **Aprendizado:** No momento, focada em entender melhor o "porquê" das coisas em Redes e modelagem de dados.
+### No que estou Desenvolvendo
+- **Rubi:** Meu projeto principal. Um assistente de IA offline (Python + Llama) com interface 3D em Three.js.
+- **Xadrez em Java:** Praticando lógica de programação orientada a objetos.
+- **Aprendizado:** No momento, focada em entender melhor o "porquê" das coisas em Redes e modelagem de dados.
   
-### 📱 Projetos e Experimentos
+### Projetos e Experimentos
 - **Xadrez em Java:** Desenvolvendo a lógica completa de um jogo de xadrez usando POO no IntelliJ.
 - **Organizador de Faturas:** Uma ferramenta prática para organizar contas e documentos.
 - **Calculadora Funcional:** Um dos meus primeiros projetos para consolidar lógica de programação e meu aprendizado.
