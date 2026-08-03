@@ -12,7 +12,7 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
 - **Aprendizado:** No momento, focada em entender melhor o "porquê" das coisas em Redes e modelagem de dados.
   
 ### Projetos e Experimentos
-- **Snake 2D em Ruby:** Desenvolvendo a lógica completa de um jogo de xadrez usando POO no Vscode.
+- **Snake 2D em Ruby:** Desenvolvendo a lógica completa de um jogo de Pixel Art usando POO no Vscode.
 - **Organizador de Faturas:** Uma ferramenta prática para organizar contas e documentos.
 - **Calculadora Funcional:** Um dos meus primeiros projetos para consolidar lógica de programação e meu aprendizado.
 - **Rubi (Em desenvolvimento):** Meu projeto mais ambicioso, integrando IA (Llama) e interface 3D.
