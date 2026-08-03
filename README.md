@@ -1,6 +1,6 @@
 # ## Hi there, my name is Anny! 
 
-### Estudante de Ciência da Computação (3º Período)
+### Estudante de Ciência da Computação (4º Período)
 
 Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenvolvimento de soluções criativas. Acredito que o aprendizado é contínuo e, atualmente, estou mergulhando fundo em arquitetura de banco de dados e no desenvolvimento de assistentes inteligentes.
 
@@ -8,11 +8,11 @@ Sou uma entusiasta da tecnologia apaixonada por estruturação de dados e desenv
 
 ### No que estou Desenvolvendo
 - **Rubi:** Meu projeto principal. Um assistente de IA offline (Python + Llama) com interface 3D em Three.js.
-- **Xadrez em Java:** Praticando lógica de programação orientada a objetos.
+- **Snake 2D:** Praticando lógica de programação orientada a objetos.
 - **Aprendizado:** No momento, focada em entender melhor o "porquê" das coisas em Redes e modelagem de dados.
   
 ### Projetos e Experimentos
-- **Xadrez em Java:** Desenvolvendo a lógica completa de um jogo de xadrez usando POO no IntelliJ.
+- **Snake 2D em Ruby:** Desenvolvendo a lógica completa de um jogo de xadrez usando POO no Vscode.
 - **Organizador de Faturas:** Uma ferramenta prática para organizar contas e documentos.
 - **Calculadora Funcional:** Um dos meus primeiros projetos para consolidar lógica de programação e meu aprendizado.
 - **Rubi (Em desenvolvimento):** Meu projeto mais ambicioso, integrando IA (Llama) e interface 3D.
